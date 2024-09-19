@@ -12,7 +12,6 @@ This project focuses on predicting customer churn based on user data, using mach
 - [Results](#results)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
